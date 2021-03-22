@@ -1,5 +1,7 @@
 package com.example.githubuser;
 
+import android.os.Parcelable;
+
 public class User {
     private int photo;
     private String name;
